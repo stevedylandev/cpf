@@ -2,6 +2,8 @@
 
 cpf (or cp file) is a super simple script to copy the contents of a file through the terminal to your clipboard. 
 
+![gif of cpf]("./cpf.gif")
+
 ## Usage
 
 Simply run `cpf` followed by the file you want to copy the contents of. 
